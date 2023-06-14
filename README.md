@@ -8,7 +8,7 @@
 Tecnológica usadas
 
 <ul>
-  <li>React/li>
+  <li>React</li>
   <li>StyledComponents</li>
   <li>Biblioteca Parallex</li>
   <li>Node.js</li>
