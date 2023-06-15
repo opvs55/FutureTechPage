@@ -12,7 +12,8 @@ Tecnológica usadas
   <li>StyledComponents</li>
   <li>Biblioteca Parallex</li>
   <li>Node.js</li>
-  <li>Surge para o deploy</li>
+  <li>react spring</li>
+  <li>Surge</li>
 </ul>
 
 Aplicação simples com o intuito de testar a ferramenta parallex
