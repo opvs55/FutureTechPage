@@ -24,6 +24,3 @@ Aplicação simples com o intuito de testar a ferramenta parallex
   <li>1366×768</li>
   <li>1920×1080</li>
 </ul>
-
-
-deploy - https://sudden-design.surge.sh/
